@@ -1,2 +1,1 @@
-Eleanor
 print 'Hello, World!'
